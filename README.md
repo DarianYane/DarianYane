@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi
+
+I will start looking for junior Python developer jobs in January 2023.
+
+From that date I will be updating this section.
 
 <!--
 **DarianYane/DarianYane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
