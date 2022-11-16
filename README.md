@@ -1,8 +1,24 @@
 ### Hi, I'm Darian👋,
 
-I will start looking for junior Python developer jobs in January 2023.
+### >_  About me:
 
-From that date I will be updating this section.
+I'm a Junior Python Developer, 
+
+I am happy solving problems, helping others, and learning new things.
+
+### >_ Find me at:
+[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/darian-yane/)
+
+### >_ Skills:
+[![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
+[![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
+</br>
+
+[![Python Follow](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
+[![Django Follow]([https://img.shields.io/badge/Django-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010](https://img.shields.io/badge/Django-Django-blueviolet))](#)
+[![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+</br>
+</br>
 
 <!--
 **DarianYane/DarianYane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
