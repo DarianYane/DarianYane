@@ -15,9 +15,8 @@ I am happy solving problems, helping others, and learning new things.
 </br>
 
 [![Python Follow](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
-[![Django Follow]([https://img.shields.io/badge/Django-563D7C?style=for-the-badge&logo=django&logoColor=white&labelColor=101010])](#)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
-</br>
 </br>
 
 <!--
